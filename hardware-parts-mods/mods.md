@@ -17,8 +17,8 @@ All items below were either purchased by someone in the community or purchased b
 
 **Printable**
 
-I figured it will take a lot of scrolling to list all possible mods for Ender 3 V3 SE so this section will only contain a link to mods in the Printables collection.
+I figured it will take a lot of scrolling to list all possible mods for Ender 3 V3 SE so this section will only contain a link to mods in the Printables collection. Below I have linked a search query on Printables with all collections named with Ender 3 V3 SE.
 
-[Have a look and print!](https://www.printables.com/@pblvsk\_1037476/collections/998458)
+[Have a look and print!](https://www.printables.com/search/collections?q=ender%203%20v3%20se)
 
 If you want to contribute please open and issue with links to models you'd like to add.
