@@ -18,5 +18,3 @@ Yeah, that's it. Rest of the configuration is done via webUI which defaults to y
 Alternatively you can use dedicated OctoPi OS by following [these instructions](https://octoprint.org/download/).
 
 For more information check out [OctoPrint Community](https://community.octoprint.org/) site.
-
-Go back home
