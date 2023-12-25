@@ -1,6 +1,8 @@
 # How to start?
 
-Here you have 2 options: Klipper or OctoPrint.
+Here you have 2 options: [Klipper](klipper.md) or [OctoPrint](octoprint.md).
+
+### Remote monitoring additions
 
 #### Camera
 
