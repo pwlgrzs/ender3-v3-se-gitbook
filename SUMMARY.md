@@ -2,13 +2,13 @@
 
 * [Welcome!](README.md)
 * [Community](community.md)
+* [Slicers](slicers.md)
 
 ## Hardware, parts, mods
 
 * [Specification](hardware-parts-mods/specification.md)
 * [Parts](hardware-parts-mods/parts.md)
 * [Mods](hardware-parts-mods/mods.md)
-* [Slicers](hardware-parts-mods/slicers.md)
 
 ## Remote control
 
