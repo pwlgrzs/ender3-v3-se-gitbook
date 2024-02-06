@@ -1,6 +1,6 @@
 # Welcome!
 
-Good day,
+Good day/night,
 
 I hope you're enjoying your Ender 3 V3 SE so far. If you'd like to learn more about the printer and see where you can take it please check articles in the menu to the right.
 
@@ -12,4 +12,4 @@ For any other questions regarding the printer please refer to [community.md](com
 
 If you find this useful please consider donation, it will be much appreciated and will go towards my work on this page and Discord team work efforts on working with the SE printer mods.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5KDKWK)
+[![ko-fi](https://ko-fi.com/img/githubbutton\_sm.svg)](https://ko-fi.com/D1D5KDKWK)
